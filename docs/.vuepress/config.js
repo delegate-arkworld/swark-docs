@@ -7,7 +7,12 @@ const config = {
         editLinks: true,
         editLinkText: "Help to improve this page!",
         docsDir: "docs",
-        lastUpdated: true
+        lastUpdated: true,
+        sidebar: [
+            "/",
+            "installation/",
+            "configuration/"
+        ],
     }
 };
 
