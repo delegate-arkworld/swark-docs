@@ -62,4 +62,8 @@ Example:
 
 ## Currency Configuration
 
+TODO
+
 ## Transaction Check Cronjob
+
+TODO
