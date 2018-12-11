@@ -1,5 +1,8 @@
 # Swark Documentation
 
+<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/last-commit/reconnico/swark-docs"></a>
+<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/license/reconnico/swark-docs"></a>
+
 ## Description
 
 Documentation of [Swark](https://github.com/reConNico/swark) powered by VuePress.
