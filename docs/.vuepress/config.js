@@ -11,7 +11,8 @@ const config = {
         sidebar: [
             "/",
             "installation/",
-            "configuration/"
+            "configuration/",
+            "commands/"
         ],
     }
 };
