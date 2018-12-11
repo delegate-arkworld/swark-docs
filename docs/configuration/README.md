@@ -60,6 +60,8 @@ Example:
     
     Order: {$ordernumber}
 
+## Payment Method Configuration
+
 ## Currency Configuration
 
 TODO
