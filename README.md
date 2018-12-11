@@ -1,8 +1,8 @@
-# Swark-Docs
+# Swark Documentation
 
-### Description
+## Description
 
-Documentation of Swark powered by VuePress.
+Documentation of [Swark](https://github.com/reConNico/swark) powered by VuePress.
 
 ## Development
 
