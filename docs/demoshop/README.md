@@ -1,6 +1,7 @@
 # Demoshop
 
-Shopware Version: 5.5.4
+* Shopware Version: 5.5.4
+* Ark Network: [devnet](https://dexplorer.ark.io/)
 
 ## Frontend
 
