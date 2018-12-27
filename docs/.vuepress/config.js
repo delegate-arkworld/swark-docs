@@ -12,7 +12,8 @@ const config = {
             "/",
             "installation/",
             "configuration/",
-            "commands/"
+            "commands/",
+            "demoshop/"
         ],
     }
 };

@@ -62,6 +62,8 @@ Example:
 
 ## Payment Method Configuration
 
+TODO
+
 ## Currency Configuration
 
 TODO
