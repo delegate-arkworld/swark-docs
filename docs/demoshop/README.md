@@ -11,4 +11,4 @@
 
 * Url: [https://demo.swark.app/backend/](https://demo.swark.app/backend/)
 * User: demo
-* Password: demo
+* Password: swarkdemo
