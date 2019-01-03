@@ -11,9 +11,9 @@ Documentation of [Swark](https://github.com/reConNico/swark) powered by VuePress
 
 ```
 git clone https://github.com/reConNico/swark-docs
-cd docs
+cd swark-docs
 yarn install
-yarn dev
+yarn docs:dev
 ```
 
 ## Credits
