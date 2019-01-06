@@ -5,7 +5,7 @@ Please read the requirements and follow the installation instructions carefully!
 ## Requirements
 
 * **Shopware > 5.3**
-* **PHP > 7.1**
+* **PHP > 7.2**
 
 ## Installation Options
 
