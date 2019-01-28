@@ -18,7 +18,7 @@ Insert the http url for the request that will be used mainly.
     
 Example:
    
-    https://my.ark.node:4003/api
+    https://my.ark.node:4003/api/v2
     
 ---
     
@@ -28,7 +28,7 @@ Same as the main node api url. Will be used when the main node isn't available.
 
 Example:
    
-    https://my.ark.node:4003/api
+    https://my.ark.node:4003/api/v2
 
 ---
     
@@ -58,15 +58,17 @@ Define the vendorField template that should be used to identify the correct tran
     
 Example:
     
-    Order: {$ordernumber}
+    Swark Order: {$ordernumber}
 
 ## Payment Method Configuration
 
-TODO
+* Open the shopware backend and navigate to `Configuration -> Payment methods`.
+* Select `ARK` and check the `active` checkbox if you want to activate the ARK payment method.
 
 ## Currency Configuration
 
-TODO
+* Open the shopware backend and navigate to `Configuration -> Basic Settings -> Shop settings -> Currencies`.
+* Select `ARK` and configure it to your needs!
 
 ## Transaction Check Cronjob
 

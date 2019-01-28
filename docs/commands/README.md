@@ -7,3 +7,7 @@ Swark provide several Shopware CLI commands. More information about the Shopware
 This command check all open Ark orders if the transaction on the blockchain has the correct amount, vendorField, recipient wallet and confirmations. If the transaction is confirmed the payment status is set to the status that is defined in the [plugin configuration](/configuration/#payment-status). 
 
     php bin/console swark:check:transactions
+    
+## Test Configuration
+
+TODO
