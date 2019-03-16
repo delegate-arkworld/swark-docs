@@ -1,6 +1,6 @@
 # Demoshop
 
-The Demoshop resets every night at 3:00am CET.
+The Demoshop will be reset every night at 3:00am CET.
 
 * Shopware Version: 5.5.4
 * Ark Network: [devnet](https://dexplorer.ark.io/)
