@@ -1,6 +1,6 @@
 const config = {
     title: 'Swark Documentation',
-    description: 'Documentation of the ARK-Shopware integration named Swark',
+    description: 'Documentation of the Ark-Shopware integration named Swark',
     themeConfig: {
         repo: 'reconnico/swark-docs',
         repoLabel: 'Contribute!',

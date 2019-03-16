@@ -1,21 +1,22 @@
 # Installation
 
-Please read the requirements and follow the installation instructions carefully!
+Please read the Requirements and follow the Installation Instructions carefully!
 
 ## Requirements
 
-* **Shopware > 5.3**
+* **Shopware > 5.5**
 * **PHP > 7.2**
 
 ## Installation Options
 
 ### Zip Installation package for the Shopware Plugin Manager
-* Download the latest plugin version (e.g. ```Swark-1.0.0.zip```)
-* Upload and install plugin using the Plugin Manager
+* Download the latest plugin version (e.g. ```Swark-1.0.0.zip```) from [Github](https://github.com/reConNico/swark/releases).
+* Upload and install plugin using the Plugin Manager in the Shopware Backend.
 
 ### Git Version
-* Checkout Plugin in ```/custom/plugins/Swark```
-* Change to Directory and run ```composer install``` to install the dependencies
+* Change to your root Installation of Shopware
+* Checkout Plugin ```git clone https://github.com/reConNico/swark.git /custom/plugins/Swark```
+* Change to Directory ```cd /custom/plugins/Swark``` and run ```composer install``` to install the dependencies
 * Install the Plugin with the Plugin Manager
 
 ### Install with Composer
