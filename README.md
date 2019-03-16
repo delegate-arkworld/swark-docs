@@ -5,7 +5,7 @@
 
 ## Description
 
-Documentation of [Swark](https://github.com/reConNico/swark) powered by VuePress.
+Documentation of [Swark](https://github.com/reConNico/swark) powered by VuePress: https://docs.swark.app
 
 ## Development
 
