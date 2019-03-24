@@ -1,6 +1,6 @@
-# Commands
+# CLI Commands
 
-Swark provide several Shopware CLI commands. More information about the Shopware CLI can be found on their [official documentation](https://docs.shopware.com/en/shopware-5-en/tutorials-and-faq/shopware-cli).
+Swark provide several Shopware CLI Commands. More information about the Shopware CLI can be found on their [official documentation](https://docs.shopware.com/en/shopware-5-en/tutorials-and-faq/shopware-cli).
 
 ## Check Transactions
 

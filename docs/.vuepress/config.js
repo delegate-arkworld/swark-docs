@@ -12,7 +12,7 @@ const config = {
             "/",
             "installation/",
             "configuration/",
-            "commands/",
+            "cli-commands/",
             "demoshop/"
         ],
     }
