@@ -69,6 +69,14 @@ If set on `Yes` the order status mail will be sent out when the order reached th
 Example:
 
     Yes
+    
+### Currency precision
+
+The decimal places that are displayed when the Ark Currency is selected.
+
+Example:
+
+    8
 
 ## Payment Method Configuration
 
