@@ -10,4 +10,4 @@ This command check all open Ark orders if the transaction on the blockchain has 
     
 ## Test Configuration
 
-TODO
+In Development...
