@@ -15,8 +15,8 @@ Please read the Requirements and follow the Installation Instructions carefully!
 
 ### Git Version
 * Change to your root Installation of Shopware
-* Checkout Plugin ```git clone https://github.com/reConNico/swark.git /custom/plugins/Swark```
-* Change to Directory ```cd /custom/plugins/Swark``` and run ```composer install``` to install the dependencies
+* Checkout Plugin ```git clone https://github.com/reConNico/swark.git custom/plugins/Swark```
+* Change to Directory ```cd custom/plugins/Swark``` and run ```composer install``` to install the dependencies
 * Install the Plugin with the Plugin Manager
 
 ### Install with Composer

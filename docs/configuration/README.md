@@ -93,6 +93,17 @@ Example:
 * Open the shopware backend and navigate to `Configuration -> Payment methods`.
 * Select `Ark` and check the `active` checkbox if you want to activate the Ark payment method.
 
+## Currency Configuration
+
+* Open the shopware backend and navigate to `Configuration -> Basic Settings -> Shop settings -> Currencies`.
+* Select `Ark` and configure it to your needs!
+
+#### Activate Currency in the Shop
+
+* Open the shopware backend and navigate to `Configuration -> Basic Settings -> Shop settings -> Shops`.
+* Select the shop you want to configure.
+* Select currency `Ark` in the `Select currencies` selection and click on `Save`.
+
 ## Cronjob Configuration
 
 #### Check Transactions
@@ -108,8 +119,3 @@ This Cronjob is not active by default. It updates the factor of the Ark currency
 
 * Open the Cronjob settings in the Shopware backend under Configuration -> Basic settings -> System -> Cronjobs.
 * Select "Check Ark transactions" from list and configure it to your needs.
-
-## Currency Configuration
-
-* Open the shopware backend and navigate to `Configuration -> Basic Settings -> Shop settings -> Currencies`.
-* Select `Ark` and configure it to your needs!
