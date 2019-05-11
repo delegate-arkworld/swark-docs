@@ -33,6 +33,16 @@ Example:
     https://my.ark.node:4003/api/v2
 
 ---
+
+#### Explorer Link
+
+Link to the explorer that should be used for links in the shop.
+
+Example:
+
+    https://explorer.ark.io
+    
+---
     
 #### Confirmations
 
