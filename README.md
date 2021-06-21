@@ -1,16 +1,16 @@
 # Swark Documentation
 
-<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/last-commit/reconnico/swark-docs"></a>
-<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/license/reconnico/swark-docs"></a>
+<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/last-commit/delegate-arkworld/swark-docs"></a>
+<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/license/delegate-arkworld/swark-docs"></a>
 
 ## Description
 
-Documentation of [Swark](https://github.com/reConNico/swark) powered by VuePress: https://docs.swark.app
+Documentation of [Swark](https://github.com/delegate-arkworld/swark) powered by VuePress: https://reconnico.gitbook.io/swark-docs/
 
 ## Development
 
 ```
-git clone https://github.com/reConNico/swark-docs
+git clone https://github.com/delegate-arkworld/swark-docs.git
 cd swark-docs
 yarn install
 yarn docs:dev
