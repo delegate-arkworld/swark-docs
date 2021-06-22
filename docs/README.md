@@ -1,6 +1,6 @@
 # Introduction
 
-Documentation of the Ark-Shopware integration named [Swark](https://github.com/reConNico/swark)
+Documentation of the Ark-Shopware integration named [Swark](https://github.com/delegate-arkworld/swark)
 
 ## What is Swark?
 

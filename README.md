@@ -2,7 +2,7 @@
 
 ## Description
 
-Documentation of [Swark](https://github.com/delegate-arkworld/swark) powered by VuePress: [https://reconnico.gitbook.io/swark-docs/](https://reconnico.gitbook.io/swark-docs/)
+Documentation of [Swark](https://github.com/delegate-arkworld/swark): [https://reconnico.gitbook.io/swark-docs/](https://reconnico.gitbook.io/swark-docs/)
 
 ## Development
 
