@@ -1,5 +1,9 @@
 # Demoshop
 
+## The Demoshop is deactivated for now. Check back later!
+
+<!--
+
 The Demoshop will reset every night at 3:00am CET.
 
 * Shopware Version: 5.5.4
