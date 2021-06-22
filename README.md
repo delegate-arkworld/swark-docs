@@ -1,14 +1,10 @@
 # Introduction
 
-Documentation of the Ark-Shopware integration named [Swark](https://github.com/delegate-arkworld/swark).
+Documentation: [https://reconnico.gitbook.io/swark-docs/](https://reconnico.gitbook.io/swark-docs/)
 
 ## What is Swark?
 
-Swark is a payment gateway that provides the ability to pay with Ark in Shopware.
-
-## Description
-
-Documentation of [Swark](https://github.com/delegate-arkworld/swark): [https://reconnico.gitbook.io/swark-docs/](https://reconnico.gitbook.io/swark-docs/)
+[Swark](https://github.com/delegate-arkworld/swark) is a payment gateway that provides the ability to pay with Ark in Shopware.
 
 ## What is Ark?
 
