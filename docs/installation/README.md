@@ -15,7 +15,7 @@ Please read the Requirements and follow the Installation Instructions carefully!
 
 ### Git Version
 * Change to your root Installation of Shopware
-* Checkout Plugin ```git clone https://github.com/reConNico/swark.git custom/plugins/Swark```
+* Checkout Plugin ```git clone https://github.com/delegate-arkworld/swark.git custom/plugins/Swark```
 * Change to Directory ```cd custom/plugins/Swark``` and run ```composer install``` to install the dependencies
 * Install the Plugin with the Plugin Manager
 
@@ -29,4 +29,4 @@ Make sure that the Shopware Cron is working correctly because Swark is creating 
 
 ## Plugin Configuration
 
-After you've successfully installed the plugin you need to configure it correctly. Please continue with the [Configuration](/configuration/) section. After you've configured the plugin correctly you can activate it.
+After you've successfully installed the plugin you need to configure it correctly. Please continue with the [Configuration](../configuration/) section. After you've configured the plugin correctly you can activate it.
