@@ -1,25 +1,15 @@
-# Swark Documentation
+# Introduction
 
-<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/last-commit/delegate-arkworld/swark-docs"></a>
-<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/license/delegate-arkworld/swark-docs"></a>
+Documentation of the Ark-Shopware integration named [Swark](https://github.com/reConNico/swark)
 
-## Description
+## What is Swark?
 
-Documentation of [Swark](https://github.com/delegate-arkworld/swark) powered by VuePress: https://reconnico.gitbook.io/swark-docs/
+Swark is a payment gateway that provides the ability to pay with Ark in Shopware.
 
-## Development
+## What is Ark?
 
-```
-git clone https://github.com/delegate-arkworld/swark-docs.git
-cd swark-docs
-yarn install
-yarn docs:dev
-```
+Ark Ecosystem's goal is to give everyone the power to easily create, customize and scale their own blockchain networks. By combining innovative network design with accessible & extensible software, Ark Ecosystem allows for maximum developer productivity. We prioritize builders and doers from every walk of life by building blockchain software that balances power and ease of use. To get more information about Ark visit their [official website](https://ark.io/).
 
-## Credits
-* [Nico Allers](https://github.com/reconnico)
-* [Contributors](../../contributors)
+## What is Shopware?
 
-## License
-
-[MIT](LICENSE) © Nico Allers
+Shopware is a modular e-commerce system which is open source as well. To get more information about Shopware visit their [official website](https://en.shopware.com/).
