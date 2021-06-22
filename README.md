@@ -1,6 +1,6 @@
 # Introduction
 
-Documentation of the Ark-Shopware integration named [Swark](https://github.com/delegate-arkworld/swark)
+Documentation of the Ark-Shopware integration named [Swark](https://github.com/delegate-arkworld/swark).
 
 ## What is Swark?
 
@@ -30,8 +30,8 @@ yarn docs:dev
 ## Credits
 
 * [Nico Allers](https://github.com/reconnico)
-* [Contributors](https://github.com/delegate-arkworld/swark-docs/tree/25ca97d6aeef97afe6d49826012e568bfa8f99c1/contributors/README.md)
+* [Contributors](https://github.com/delegate-arkworld/swark/graphs/contributors)
 
 ## License
 
-[MIT](https://github.com/delegate-arkworld/swark-docs/tree/25ca97d6aeef97afe6d49826012e568bfa8f99c1/LICENSE/README.md) © Nico Allers
+[MIT](LICENSE) © Nico Allers
