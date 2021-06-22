@@ -10,7 +10,7 @@ Please read the Requirements and follow the Installation Instructions carefully!
 ## Installation Options
 
 ### Zip Installation package for the Shopware Plugin Manager
-* Download the latest plugin version (e.g. ```Swark-1.0.0.zip```) from [Github](https://github.com/reConNico/swark/releases).
+* Download the latest plugin version (e.g. ```Swark-1.0.0.zip```) from [Github](https://github.com/delegate-arkworld/swark/releases).
 * Upload and install plugin using the Plugin Manager in the Shopware Backend.
 
 ### Git Version
