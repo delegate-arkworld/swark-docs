@@ -13,3 +13,4 @@ Ark Ecosystem's goal is to give everyone the power to easily create, customize a
 ## What is Shopware?
 
 Shopware is a modular e-commerce system which is open source as well. To get more information about Shopware visit their [official website](https://en.shopware.com/).
+

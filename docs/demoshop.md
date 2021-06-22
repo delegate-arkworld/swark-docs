@@ -2,7 +2,7 @@
 
 ## The Demoshop is deactivated for now. Check back later!
 
-<!--
+&lt;!--
 
 The Demoshop will reset every night at 3:00am CET.
 
@@ -18,3 +18,4 @@ The Demoshop will reset every night at 3:00am CET.
 * Url: [https://demo.swark.app/backend/](https://demo.swark.app/backend/)
 * User: demo
 * Password: swarkdemo
+

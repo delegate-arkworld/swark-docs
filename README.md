@@ -1,15 +1,12 @@
 # Swark Documentation
 
-<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/last-commit/delegate-arkworld/swark-docs"></a>
-<a href="https://github.com/reconnico/swark-docs"><img src="https://badgen.net/github/license/delegate-arkworld/swark-docs"></a>
-
 ## Description
 
-Documentation of [Swark](https://github.com/delegate-arkworld/swark) powered by VuePress: https://reconnico.gitbook.io/swark-docs/
+Documentation of [Swark](https://github.com/delegate-arkworld/swark) powered by VuePress: [https://reconnico.gitbook.io/swark-docs/](https://reconnico.gitbook.io/swark-docs/)
 
 ## Development
 
-```
+```text
 git clone https://github.com/delegate-arkworld/swark-docs.git
 cd swark-docs
 yarn install
@@ -17,9 +14,11 @@ yarn docs:dev
 ```
 
 ## Credits
+
 * [Nico Allers](https://github.com/reconnico)
-* [Contributors](../../contributors)
+* [Contributors](https://github.com/delegate-arkworld/swark-docs/tree/25ca97d6aeef97afe6d49826012e568bfa8f99c1/contributors/README.md)
 
 ## License
 
-[MIT](LICENSE) © Nico Allers
+[MIT](https://github.com/delegate-arkworld/swark-docs/tree/25ca97d6aeef97afe6d49826012e568bfa8f99c1/LICENSE/README.md) © Nico Allers
+
